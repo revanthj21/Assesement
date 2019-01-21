@@ -1,0 +1,273 @@
+<<<<<<< HEAD
+Category,Part#,Desciption,Unit Of Measuremnt, Price (in $),Discount
+Apparel ,12365,A New Day Pouches,case,10,1
+Apparel,12366,C9 Champion Kids Fleece Hoodies (Assorted),10$0.3/piece:25/box,7.5,2
+Apparel,12367,C9 Champion Kids Fleece Pants (Assorted),case,10,3
+Apparel,12368,Carter's Just One You Made 2-pc. Blanket Sleeper,10$0.3/piece:25/box,10,4
+Apparel,12369,Carter's Just One You Made 4-pc. Pajama Set,case,10,5
+Apparel,12370,Cat & Jack Girls Leggings (4-16),case,4,6
+Apparel,12371,Cat & Jack Kids Blanket Sleeper,10$0.3/piece:25/box,10,7
+Apparel,12372,Cat & Jack Kids Character Tees (4-16),case,5,8
+Apparel,12373,Cat & Jack Kids Denim,case,8,9
+Apparel,12374,Cat & Jack Kids Favorite Tees (4-16),case,5,10
+Apparel,12375,Cat & Jack Kids Fleece Pants (Assorted),case,8,11
+Apparel,12376,Cat & Jack Kids Fleece Pullovers (Assorted),10$0.3/piece:25/box,8,12
+Apparel,12377,Cat & Jack Kids Long-Sleeve Graphic Tees (4-16),case,5,13
+Apparel,12378,Cat & Jack Kids Puffer Coat (4-16),case,20,14
+Apparel,12379,Cat & Jack Kids Sleep Sets,case,8,15
+Apparel,12380,Cat & Jack Kids Sweaters,case,15,16
+Apparel,12381,Cat & Jack Toddler & Kids Sweater,10$0.3/piece:25/box,10,17
+Apparel,12382,Cat & Jack Toddler Boys Graphic Tees,case,3,18
+Apparel,12383,Cat & Jack Toddler Character Tees,case,5,19
+Apparel,12384,Cat & Jack Toddler Girls Graphic Tees,case,3,20
+Apparel,12385,Cat & Jack Toddler Girls Leggings,case,3,21
+Apparel,12386,Cat & Jack Toddlers Fleece Pants (Assorted),10$0.3/piece:25/box,5,22
+Apparel,12387,Cat & Jack Toddlers Fleece Shirts (Assorted),case,5,23
+Apparel,12388,Cat & Jack Toddlers Fleece Zipper Jackets (Assorted),case,5,24
+Apparel,12389,Cat & Jack Toddlers Puffer Coat,case,15,25
+Apparel,12390,Character Kids Sleep Set,10$0.3/piece:25/box,5,26
+Apparel,12391,Character Kids Sleep Sets,case,10,27
+Apparel,12392,Hottotties Wander Sock & Thermal Legging Set,case,10,28
+Apparel,12393,C9 Champion Mens Pullovers (Assorted),case,15,29
+Apparel,12394,Goodfellow & Co Mens French Terry Jogger Sleep Pants,10$0.3/piece:25/box,15,30
+Apparel,12395,Goodfellow & Co Mens Knit Sleep Pants,case,10,31
+Apparel,12396,Goodfellow & Co Mens Sweaters,case,15,32
+Apparel,12397,Goodfellow & Co. Mens Fleece Crews (Assorted),10$0.3/piece:25/box,10,33
+Apparel,12398,Goodfellow & Co. Mens Fleece Hoodies (Assorted),case,10,34
+Apparel,12399,Goodfellow & Co. Mens Short-Sleeve Tees,case,4,35
+Apparel,12400,Goodfellows & Co. Mens Crew Sweater,case,10,36
+Apparel,12401,Mens C9 Champion Sweater Fleece,,20,37
+Apparel,12402,Mens Flannel Shirts,,7,38
+Apparel,12403,Mens Goodfellow & Co. Sweaters,,20,39
+Apparel,12404,Mens Graphic Tees,10$0.3/piece:25/box,8,40
+Apparel,12405,Universal Mens Denim,,15,41
+Apparel,12406,Wrangler Mens Denim,,15,42
+Apparel,12407,Fashion Kids Boots,,10,43
+Apparel,12408,Fashion Toddler Boots,,10,44
+Apparel,12409,Womens Booties,,15,45
+Apparel,12410,Womens Boots,10$0.3/piece:25/box,20,46
+Apparel,12411,Samsung Galaxy 42mm Rose Gold Watch,,259.99,47
+Apparel,12413,A New Day Womens Cardigans,,14,49
+Apparel,12414,A New Day Womens Long-Sleeve Tees,,6,50
+Apparel,12415,A New Day Womens Tanks,10$0.3/piece:25/box,4,51
+Apparel,12416,A New Day Womens Tees,,4,52
+Apparel,12417,Ava & Viv Womens Long-Sleeve Tees,,6,53
+Apparel,12418,Ava & Viv Womens Tanks,,4,54
+Apparel,12419,Ava & Viv Womens Tees,,4,55
+Apparel,12420,C9 Champion Womens Fleece Crews (Assorted),,15,56
+Apparel,12421,C9 Champion Womens Full Zip Hoodie (Assorted),,15,57
+Apparel,12422,Gilligan & O'Malley Womens Flannel Sleep Pants,,10,58
+Apparel,12423,Graphic Womens Pullover (Assorted),,15,59
+Apparel,12424,Universal Thread Womens Tanks,10$0.3/piece:25/box,4,60
+Apparel,12425,Universal Thread Womens Tees,,4,61
+Apparel,12426,Universal Womens Denim,,15,62
+Apparel,12427,Womens C9 Champion Sweater Fleece,,20,63
+Apparel,12428,Womens Goodfellow & Co. Sweaters,,20,64
+Apparel,12429,Wrangler Womens Denim,10$0.3/piece:25/box,15,65
+Apparel,12430,Cat & Jack Toddler Denim,,8,66
+Apparel,12431,Cat & Jack Toddler Sweaters,,15,67
+Apparel,12432,Character Toddler Sleep Sets,,10,68
+Apparel,12433,Family Pajamas,,10,69
+Apparel,12434,Fleece Sleep Pants,10$0.3/piece:25/box,5,1
+Apparel,12435,Fleece Sleep Pants,,5,2
+Apparel,12436,Gilligan & O'Malley Double-Lined Cozy Socks,,5,3
+Apparel,12437,Gilligan & O'Malley Henley Sleep Set,,12,4
+Apparel,12438,Gilligan & O'Malley Thermal Sleep Set,,12,5
+Apparel,12439,Goodfellow & Co. Mens V-Neck Pullover Sweater,,10,6
+Apparel,12440,Holiday Graphic Tees,,5,7
+Apparel,12441,Wild Fable Tech Touch Gloves,10$0.3/piece:25/box,1,8
+Paper,12442,Discovery Kids Tabletop Dry Erase & Chalk Easel,,15,9
+Paper,12443,Elmer's Ultimate Slime Kit,,15,10
+Paper,12444,My Lock Super Spa Creations,,19.99,11
+Paper,12445,Nickelodeon Slime Kit,,19.99,12
+Paper,12446,Paper Mate Rollerball 26-ct. Gel Pens,10$0.3/piece:25/box,15,13
+Paper,12447,STMT DIY Planner Super Set Activity Kit,,15,14
+Paper,12448,Sharpie Permanent 44-ct. Multicolor Markers,,15,15
+Baby,12449,Chicco Bravo Travel System,,100,16
+Baby,12450,Graco 4Ever Convertible Car Seat,,164.99,17
+Baby,12451,Graco Pack N Play,,24.99,18
+Baby,12452,Lillebaby Complete Carrier,,25,19
+Baby,12453,VTech Digital Video Baby Monitor,10$0.3/piece:25/box,69.99,20
+Paper,12454,5-Minute Pete & Cat Stories,,5,21
+Paper,12455,5-Minute Princess Stories,,5,22
+Paper,12456,5-Minute Stories Collection,10$0.3/piece:25/box,5,23
+Paper,12457,Diary of a Wimpy Kid: The Meltdown,,25,24
+Paper,12458,Five Little Ladybugs Book,,5,25
+Paper,12459,Five-Minute Peppa Stories,,5,26
+Paper,12460,James Patterson/Alex Cross: Target,10$0.3/piece:25/box,25,27
+Paper,12461,Janet Evanovich: Look Alive Twenty-Five,,25,28
+Paper,12462,Jodi Picoult: A Spark of Light,,25,29
+Paper,12463,Magnolia Table (Hardcover),,25,30
+Paper,12464,Mitch Albom: Next Person You Meet in Heaven (Hardcover),,25,31
+Paper,12465,Nicholas Sparks: Every Breath,,25,32
+Paper,12466,Reese Witherspoon: Whiskey in a Teacup,10$0.3/piece:25/box,25,33
+Home Items,12467,Batman Super Blanky w/ Mask Wearable Blanket,,10,34
+Home Items,12468,Bissell Little Green Portable Deep Cleaner,,49.99,35
+Home Items,12469,Black & Decker Lithium Hand Vacuum,,29.99,36
+Home Items,12470,Character Pillow Buddy & Throw Blanket Set,,12,37
+Home Items,12471,Cozy Wings Wearable Blanket,,10,38
+Home Items,12472,Dirt Devil Endura Max Upright Vacuum,10$0.3/piece:25/box,39.99,39
+Home Items,12473,Dyson Hot & Cold Fan,,279.99,40
+Home Items,12474,Dyson Slim Ball Upright Vacuum,,189.99,41
+Home Items,12475,Dyson V6 Motorhead Cord-Free Vacuum,,189.99,42
+Home Items,12476,Dyson V6 Motorhead Cord-Free Vacuum,,189.99,43
+Home Items,12477,Ecovac N79W Robotic Vacuum,,149.99,44
+Home Items,12478,Ecovacs Robotic Vacuum,10$0.3/piece:25/box,149.99,45
+Home Items,12479,Hoover Power Scrub Deluxe Carpet Cleaner,,99.99,46
+Home Items,12480,Nest Cam Indoor,,129,47
+Home Items,12481,Nest Learning Thermostat,,179,48
+Home Items,12482,Nest Protect Carbon Monoxide & Smoke Alarm,,99,49
+Home Items,12483,Nest Thermostat E,,139,50
+Home Items,12484,Pillowfort Mermaid Tail Wearable Blanket,,10,51
+Home Items,12485,Shark Ion F80 MultiFlex vacuum,,299.99,52
+Home Items,12486,Shark Ion Robot 720 Vacuum w/ Remote,10$0.3/piece:25/box,199.99,53
+Home Items,12487,Shark Ion X40 Vacuum,,149.99,54
+Home Items,12488,Shark Navigator DLX Upright Vacuum,,89.99,55
+Home Items,12489,Shark Navigator Powered Lift-Away Vacuum,10$0.3/piece:25/box,149.99,56
+Home Items,12490,Shark Professional Steam Pocket Mop,,49.99,57
+Home Items,12491,Shark Stick Vacuum,,89.99,58
+Home Items,12492,Shark Upright Vacuum,,89.99,59
+Home Items,12493,Sharper Image 3-pk. Essential Oils,,14,60
+Home Items,12494,Sharper Image Himalayan Salt Lamp,,14,61
+Home Items,12495,Sharper Image Mist Diffuser,10$0.3/piece:25/box,14,62
+Home Items,12496,Threshold Chenille Throw (Assorted),,10,63
+Home Items,12497,Threshold Sherpa Throw (Assorted),,10,64
+Home Items,12498,iRobot Roomba 675 Robotic Vacuum,10$0.3/piece:25/box,199.99,65
+Home Items,12499,iRobot Roomba 690 Robotic Vacuum,,249.99,66
+=======
+Category,Part#,Desciption,Unit Of Measuremnt, Price (in $),Discount
+Apparel ,12365,A New Day Pouches,case,10,1
+Apparel,12366,C9 Champion Kids Fleece Hoodies (Assorted),10$0.3/piece:25/box,7.5,2
+Apparel,12367,C9 Champion Kids Fleece Pants (Assorted),case,10,3
+Apparel,12368,Carter's Just One You Made 2-pc. Blanket Sleeper,10$0.3/piece:25/box,10,4
+Apparel,12369,Carter's Just One You Made 4-pc. Pajama Set,case,10,5
+Apparel,12370,Cat & Jack Girls Leggings (4-16),case,4,6
+Apparel,12371,Cat & Jack Kids Blanket Sleeper,10$0.3/piece:25/box,10,7
+Apparel,12372,Cat & Jack Kids Character Tees (4-16),case,5,8
+Apparel,12373,Cat & Jack Kids Denim,case,8,9
+Apparel,12374,Cat & Jack Kids Favorite Tees (4-16),case,5,10
+Apparel,12375,Cat & Jack Kids Fleece Pants (Assorted),case,8,11
+Apparel,12376,Cat & Jack Kids Fleece Pullovers (Assorted),10$0.3/piece:25/box,8,12
+Apparel,12377,Cat & Jack Kids Long-Sleeve Graphic Tees (4-16),case,5,13
+Apparel,12378,Cat & Jack Kids Puffer Coat (4-16),case,20,14
+Apparel,12379,Cat & Jack Kids Sleep Sets,case,8,15
+Apparel,12380,Cat & Jack Kids Sweaters,case,15,16
+Apparel,12381,Cat & Jack Toddler & Kids Sweater,10$0.3/piece:25/box,10,17
+Apparel,12382,Cat & Jack Toddler Boys Graphic Tees,case,3,18
+Apparel,12383,Cat & Jack Toddler Character Tees,case,5,19
+Apparel,12384,Cat & Jack Toddler Girls Graphic Tees,case,3,20
+Apparel,12385,Cat & Jack Toddler Girls Leggings,case,3,21
+Apparel,12386,Cat & Jack Toddlers Fleece Pants (Assorted),10$0.3/piece:25/box,5,22
+Apparel,12387,Cat & Jack Toddlers Fleece Shirts (Assorted),case,5,23
+Apparel,12388,Cat & Jack Toddlers Fleece Zipper Jackets (Assorted),case,5,24
+Apparel,12389,Cat & Jack Toddlers Puffer Coat,case,15,25
+Apparel,12390,Character Kids Sleep Set,10$0.3/piece:25/box,5,26
+Apparel,12391,Character Kids Sleep Sets,case,10,27
+Apparel,12392,Hottotties Wander Sock & Thermal Legging Set,case,10,28
+Apparel,12393,C9 Champion Mens Pullovers (Assorted),case,15,29
+Apparel,12394,Goodfellow & Co Mens French Terry Jogger Sleep Pants,10$0.3/piece:25/box,15,30
+Apparel,12395,Goodfellow & Co Mens Knit Sleep Pants,case,10,31
+Apparel,12396,Goodfellow & Co Mens Sweaters,case,15,32
+Apparel,12397,Goodfellow & Co. Mens Fleece Crews (Assorted),10$0.3/piece:25/box,10,33
+Apparel,12398,Goodfellow & Co. Mens Fleece Hoodies (Assorted),case,10,34
+Apparel,12399,Goodfellow & Co. Mens Short-Sleeve Tees,case,4,35
+Apparel,12400,Goodfellows & Co. Mens Crew Sweater,case,10,36
+Apparel,12401,Mens C9 Champion Sweater Fleece,,20,37
+Apparel,12402,Mens Flannel Shirts,,7,38
+Apparel,12403,Mens Goodfellow & Co. Sweaters,,20,39
+Apparel,12404,Mens Graphic Tees,10$0.3/piece:25/box,8,40
+Apparel,12405,Universal Mens Denim,,15,41
+Apparel,12406,Wrangler Mens Denim,,15,42
+Apparel,12407,Fashion Kids Boots,,10,43
+Apparel,12408,Fashion Toddler Boots,,10,44
+Apparel,12409,Womens Booties,,15,45
+Apparel,12410,Womens Boots,10$0.3/piece:25/box,20,46
+Apparel,12411,Samsung Galaxy 42mm Rose Gold Watch,,259.99,47
+Apparel,12413,A New Day Womens Cardigans,,14,49
+Apparel,12414,A New Day Womens Long-Sleeve Tees,,6,50
+Apparel,12415,A New Day Womens Tanks,10$0.3/piece:25/box,4,51
+Apparel,12416,A New Day Womens Tees,,4,52
+Apparel,12417,Ava & Viv Womens Long-Sleeve Tees,,6,53
+Apparel,12418,Ava & Viv Womens Tanks,,4,54
+Apparel,12419,Ava & Viv Womens Tees,,4,55
+Apparel,12420,C9 Champion Womens Fleece Crews (Assorted),,15,56
+Apparel,12421,C9 Champion Womens Full Zip Hoodie (Assorted),,15,57
+Apparel,12422,Gilligan & O'Malley Womens Flannel Sleep Pants,,10,58
+Apparel,12423,Graphic Womens Pullover (Assorted),,15,59
+Apparel,12424,Universal Thread Womens Tanks,10$0.3/piece:25/box,4,60
+Apparel,12425,Universal Thread Womens Tees,,4,61
+Apparel,12426,Universal Womens Denim,,15,62
+Apparel,12427,Womens C9 Champion Sweater Fleece,,20,63
+Apparel,12428,Womens Goodfellow & Co. Sweaters,,20,64
+Apparel,12429,Wrangler Womens Denim,10$0.3/piece:25/box,15,65
+Apparel,12430,Cat & Jack Toddler Denim,,8,66
+Apparel,12431,Cat & Jack Toddler Sweaters,,15,67
+Apparel,12432,Character Toddler Sleep Sets,,10,68
+Apparel,12433,Family Pajamas,,10,69
+Apparel,12434,Fleece Sleep Pants,10$0.3/piece:25/box,5,1
+Apparel,12435,Fleece Sleep Pants,,5,2
+Apparel,12436,Gilligan & O'Malley Double-Lined Cozy Socks,,5,3
+Apparel,12437,Gilligan & O'Malley Henley Sleep Set,,12,4
+Apparel,12438,Gilligan & O'Malley Thermal Sleep Set,,12,5
+Apparel,12439,Goodfellow & Co. Mens V-Neck Pullover Sweater,,10,6
+Apparel,12440,Holiday Graphic Tees,,5,7
+Apparel,12441,Wild Fable Tech Touch Gloves,10$0.3/piece:25/box,1,8
+Paper,12442,Discovery Kids Tabletop Dry Erase & Chalk Easel,,15,9
+Paper,12443,Elmer's Ultimate Slime Kit,,15,10
+Paper,12444,My Lock Super Spa Creations,,19.99,11
+Paper,12445,Nickelodeon Slime Kit,,19.99,12
+Paper,12446,Paper Mate Rollerball 26-ct. Gel Pens,10$0.3/piece:25/box,15,13
+Paper,12447,STMT DIY Planner Super Set Activity Kit,,15,14
+Paper,12448,Sharpie Permanent 44-ct. Multicolor Markers,,15,15
+Baby,12449,Chicco Bravo Travel System,,100,16
+Baby,12450,Graco 4Ever Convertible Car Seat,,164.99,17
+Baby,12451,Graco Pack N Play,,24.99,18
+Baby,12452,Lillebaby Complete Carrier,,25,19
+Baby,12453,VTech Digital Video Baby Monitor,10$0.3/piece:25/box,69.99,20
+Paper,12454,5-Minute Pete & Cat Stories,,5,21
+Paper,12455,5-Minute Princess Stories,,5,22
+Paper,12456,5-Minute Stories Collection,10$0.3/piece:25/box,5,23
+Paper,12457,Diary of a Wimpy Kid: The Meltdown,,25,24
+Paper,12458,Five Little Ladybugs Book,,5,25
+Paper,12459,Five-Minute Peppa Stories,,5,26
+Paper,12460,James Patterson/Alex Cross: Target,10$0.3/piece:25/box,25,27
+Paper,12461,Janet Evanovich: Look Alive Twenty-Five,,25,28
+Paper,12462,Jodi Picoult: A Spark of Light,,25,29
+Paper,12463,Magnolia Table (Hardcover),,25,30
+Paper,12464,Mitch Albom: Next Person You Meet in Heaven (Hardcover),,25,31
+Paper,12465,Nicholas Sparks: Every Breath,,25,32
+Paper,12466,Reese Witherspoon: Whiskey in a Teacup,10$0.3/piece:25/box,25,33
+Home Items,12467,Batman Super Blanky w/ Mask Wearable Blanket,,10,34
+Home Items,12468,Bissell Little Green Portable Deep Cleaner,,49.99,35
+Home Items,12469,Black & Decker Lithium Hand Vacuum,,29.99,36
+Home Items,12470,Character Pillow Buddy & Throw Blanket Set,,12,37
+Home Items,12471,Cozy Wings Wearable Blanket,,10,38
+Home Items,12472,Dirt Devil Endura Max Upright Vacuum,10$0.3/piece:25/box,39.99,39
+Home Items,12473,Dyson Hot & Cold Fan,,279.99,40
+Home Items,12474,Dyson Slim Ball Upright Vacuum,,189.99,41
+Home Items,12475,Dyson V6 Motorhead Cord-Free Vacuum,,189.99,42
+Home Items,12476,Dyson V6 Motorhead Cord-Free Vacuum,,189.99,43
+Home Items,12477,Ecovac N79W Robotic Vacuum,,149.99,44
+Home Items,12478,Ecovacs Robotic Vacuum,10$0.3/piece:25/box,149.99,45
+Home Items,12479,Hoover Power Scrub Deluxe Carpet Cleaner,,99.99,46
+Home Items,12480,Nest Cam Indoor,,129,47
+Home Items,12481,Nest Learning Thermostat,,179,48
+Home Items,12482,Nest Protect Carbon Monoxide & Smoke Alarm,,99,49
+Home Items,12483,Nest Thermostat E,,139,50
+Home Items,12484,Pillowfort Mermaid Tail Wearable Blanket,,10,51
+Home Items,12485,Shark Ion F80 MultiFlex vacuum,,299.99,52
+Home Items,12486,Shark Ion Robot 720 Vacuum w/ Remote,10$0.3/piece:25/box,199.99,53
+Home Items,12487,Shark Ion X40 Vacuum,,149.99,54
+Home Items,12488,Shark Navigator DLX Upright Vacuum,,89.99,55
+Home Items,12489,Shark Navigator Powered Lift-Away Vacuum,10$0.3/piece:25/box,149.99,56
+Home Items,12490,Shark Professional Steam Pocket Mop,,49.99,57
+Home Items,12491,Shark Stick Vacuum,,89.99,58
+Home Items,12492,Shark Upright Vacuum,,89.99,59
+Home Items,12493,Sharper Image 3-pk. Essential Oils,,14,60
+Home Items,12494,Sharper Image Himalayan Salt Lamp,,14,61
+Home Items,12495,Sharper Image Mist Diffuser,10$0.3/piece:25/box,14,62
+Home Items,12496,Threshold Chenille Throw (Assorted),,10,63
+Home Items,12497,Threshold Sherpa Throw (Assorted),,10,64
+Home Items,12498,iRobot Roomba 675 Robotic Vacuum,10$0.3/piece:25/box,199.99,65
+Home Items,12499,iRobot Roomba 690 Robotic Vacuum,,249.99,66
+>>>>>>> 33ffd1fac9880461dcc62541d7856bea24b4643f
